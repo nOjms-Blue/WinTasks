@@ -1,0 +1,2 @@
+# WInTasks
+Windowsのタスクの起動と終了を確認するためのPythonスクリプト
